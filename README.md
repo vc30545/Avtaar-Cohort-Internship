@@ -1,5 +1,6 @@
 # Avtaar-Cohort-Internship
 Full Stack Internship Assignments
+I am  uploaded 2 files.
 
 Algorithem :
 step 1 :  Print a line for user "enter a name"
